@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Configuration;
 public class MasterDatabaseConfigProperties
 {
 	/** database url */
-	private String url = "jdbc:mysql://aa1tmtiz2xn7ndo.c9sffuysowjo.ap-southeast-1.rds.amazonaws.com:3306/zenith_master?useSSL=false&createDatabaseIfNotExist=TRUE";
+	private String url = "jdbc:mysql://scholarship-demo.c9sffuysowjo.ap-southeast-1.rds.amazonaws.com:3306/zenith_master?useSSL=false&createDatabaseIfNotExist=TRUE";
 	/** database username */
 	private String username = "admin";
 	/** database password */
