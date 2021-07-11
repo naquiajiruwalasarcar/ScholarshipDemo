@@ -22,7 +22,7 @@ multitenancy:
   mtapp:
     master:
       datasource:
-        url: jdbc:mysql://scholarship-demo.c9sffuysowjo.ap-southeast-1.rds.amazonaws.com:3306/zenith_master?useSSL=false&createDatabaseIfNotExist=TRUE
+        url: jdbc:mysql://scholarship-demo.c9sffuysowjo.ap-southeast-1.rds.amazonaws.com:3306/zenith_master?useSSL=false
         #url: jdbc:mysql://localhost:3306/zenith_master?useSSL=false&createDatabaseIfNotExist=TRUE
         username: admin
         password: tmspl5629D!
