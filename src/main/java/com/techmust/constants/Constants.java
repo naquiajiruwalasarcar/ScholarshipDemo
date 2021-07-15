@@ -42,7 +42,7 @@ public class Constants
 	//STUDENT DOCUMENTS AND IMAGES S3 BUCKET URL
 	public static final String USERIMAGEFOLDER = "images/user/";
 	public static final String STUDENTIMAGEFOLDER = "images/student/";
-	public static final String STUDENTAADHARDOCUMENTFOLDER = "/studentaadhar/";
+	public static final String STUDENTAADHARDOCUMENTFOLDER = "images/studentaadhar/";
 	public static final String STUDENTELECTRICITYBILLDOCUMENTFOLDER = "images/studentelectricitybill/";
 	public static final String S3BUCKETURL = "https://s3-ap-southeast-1.amazonaws.com/scholorshipdemobucket/";
 	public static final String STUDENTFATHERAADHAR = "images/studentfatheraadhar/";
